@@ -1,2 +1,2 @@
-# game-loop
-Android Studio 2D Game #1 - The Game Loop
+# basics-of-draw-plus-update
+Android Studio 2D Game #2 - Basics of Draw + Update
